@@ -12,6 +12,7 @@
 
 ```bash
 minikube start --driver=docker
+```
 ---
 
 ![Create Deployments](image-4.png)
