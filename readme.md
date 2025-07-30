@@ -12,7 +12,8 @@
 
 ```bash
 minikube start --driver=docker
-------------------------------------------------------------------------------------------------
+---
+
 ![Create Deployments](image-4.png)
 ![Status](image-3.png)
 ![Running](image-2.png)
