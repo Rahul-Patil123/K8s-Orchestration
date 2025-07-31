@@ -20,3 +20,5 @@ minikube start --driver=docker
 ![Running](image-2.png)
 ![Sign in](image.png)
 ![Mongo Express](image-1.png)
+## Kubernetes Dashboard using Ingress
+![Dashboard](image-5.png)
